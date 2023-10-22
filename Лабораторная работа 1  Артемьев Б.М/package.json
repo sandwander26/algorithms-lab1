@@ -1,0 +1,15 @@
+{
+  "name": "algo-lab-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "algorithms",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
